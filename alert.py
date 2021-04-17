@@ -2,12 +2,12 @@ import smtplib
 from email.message import EmailMessage
 
 
-def email_alert(whofrom, password, name='Sum Yung Nguy', subject, body, to):
+def email_alert(whofrom, password, subject, body, to, name='Sum Yung Nguy'):
     user = whofrom
-    msg['from'] = name
     password = password
 
     msg = EmailMessage()
+    msg['from'] = name
     msg.set_content(body)
     msg['subject'] = subject
     msg['to'] = to

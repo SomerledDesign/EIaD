@@ -76,4 +76,4 @@ else:
 subject, body = random.choice(list(d.items()))
 
 for email_address in email_list:
-    email_alert(args.user, args.password, args.name, subject, body, email_address)
+    email_alert(args.user, args.password, subject, body, email_address, args.name)
