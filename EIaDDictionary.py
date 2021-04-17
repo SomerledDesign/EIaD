@@ -1,7 +1,8 @@
 dictionary = {
     "A few sandwiches short of a picnic":
         "Someone that lacks common sense might be described as 'a few sandwiches short of a picnic.'\n"
-        "The phrase was first documented in the BBC's 'Lenny Henry Christmas Special' in 1987.\n"
+        "The phrase was first documented in the BBC's 'Lenny Henry Christmas Special' in 1987.\n\n"
+
         "\"She's great fun, but she's a few sandwiches short of a picnic.\"",
 
     "Anorak":
@@ -9,7 +10,7 @@ dictionary = {
         "playground slang. \n"
         "Someone that's a little bit geeky, with strong interests or expertise in a niche area, might be referred to "
         "as an 'anorak.' This probably originates from the 'uncool' appearance of anorak coats and the people wearing "
-        "them. \n"
+        "them. \n\n"
 
         "\"Thomas is such an anorak when it comes to train trivia.\"",
 
@@ -17,7 +18,8 @@ dictionary = {
         "Calling 'bagsy' is the equivalent of calling 'shotgun' or 'dibs' when something, like the front seat of the "
         "car, is offered up to a group. \n"
         "Schoolkids might call 'bagsy' on items from their friends' pack lunches, like an apple or a cereal bar, "
-        "that the friend isn't going to eat. \n"
+        "that the friend isn't going to eat.\n\n"
+
         "\"Does anyone want thi--\"\n"
         "\"Bagsy!\"",
 
@@ -25,168 +27,160 @@ dictionary = {
         "This phrase became mainstream in the USA in the 1920s despite its British origins, but its popularity in the "
         "States has dwindled since the turn of the century.\n "
         "The \"bee's knees\" referred to small or insignificant details when it was first documented in the 18th "
-        "century. Since then, the phrase has evolved and refers to something at the 'height of cool.' \n"
+        "century. Since then, the phrase has evolved and refers to something at the 'height of cool.' \n\n"
+
         "\"The Beatles are the bee's knees.\"",
 
     "Bender":
-        "Someone on a spree of excessive drinking and mischief is 'on a bender.'"
+        "Someone on a spree of excessive drinking and mischief is 'on a bender.'\n"
         "Benders often last over 24 hours, and so you might say that someone is on \"a weekend bender,"
-        "\" or a \"three-day bender.\"\n "
+        "\" or a \"three-day bender.\"\n\n"
+
         "\"I bumped into him towards the end of his four-day bender. He was a wreck.\"",
 
     "Blinder":
-
         "To 'pull a blinder' involves achieving something difficult faultlessly and skilfully.\n"
         "The phrase is most commonly used when the individual has been lucky and the person saying it is in disbelief "
-        "that the first person has managed to pull it off. "
+        "that the first person has managed to pull it off. \n\n"
+
         "\"...and did you see that equalising goal in the last minute of injury time? He pulled a blinder there.\"",
 
-    "Bloody or Bleeding":
-
+    "Bloody or Bleedin'":
         "This intensifier can be added to practically any sentence in order to demonstrate incredulity or anger."
-        "Some people consider 'bloody' offensive (the origins of the word are widely disputed, so we can't be sure why) and it was considered a profanity until the mid-20th century."
+        "Some people consider 'bloody' offensive (the origins of the word are widely disputed, so we can't be sure "
+        "why) and it was considered a profanity until the mid-20th century. \n"
+        "The origins of the word are widely disputed. Some believe it's derived from the Dutch word 'blute,' meaning "
+        "'bare.' Others believe the word is a contraction of the 17th century phrase 'by our lady,"
+        "' and is blasphemous. This second theory has been disproved, however, by the slang's documentation predating "
+        "the popularity of the phrase 'by our lady.'\n"
+        "Nowadays, 'bloody' is used widely -- it's even used in children's films such as 'Harry Potter' -- and is "
+        "arguably one of the most quintessentially British words on the list. \n\n"
 
-        "The origins of the word are widely disputed. Some believe it's derived from the Dutch word 'blute,' meaning 'bare.' Others believe the word is a contraction of the 17th century phrase 'by our lady,' and is blasphemous. This second theory has been disproved, however, by the slang's documentation predating the popularity of the phrase 'by our lady.'"
-
-        "Nowadays, 'bloody' is used widely -- it's even used in children's films such as 'Harry Potter' -- and is arguably one of the most quintessentially British words on the list."
         "\"That was bloody good.\"",
 
     "Bob's your uncle":
+        "The long version is \"Bob's Your Uncle and Fanny's your Aunt\" meaning \"And there you are\" or \"It's that "
+        "easy!\" or \"(After that) it's done!\" or \"(After that,) you have achieved what wanted to achieve\" \n"
+        "It is the very British equivalent to 'Hey presto!' or 'Et voila!'\n"
+        "This phrase is used to describe a process which seems more difficult than it actually is.\n\n"
 
-        "The long version is \"Bob's Your Uncle and Fanny's your Aunt\" meaning \"And there you are\" or \"It's that easy!\" or \"(After that) it's done!\" or \"(After that,) you have achieved what wanted to achieve\""
-        "It is the very British equivalent to 'Hey presto!' or 'Et voila!'"
-        "This phrase is used to describe a process which seems more difficult than it actually is."
-        "\"Press down the clutch, put it into gear, then slowly ease off the clutch again. Bob's your uncle -- you're driving!\"",
+        "\"Press down the clutch, put it into gear, then slowly ease off the clutch again. Bob's your uncle -- you're "
+        "driving!\"",
 
     "Bog-standard":
-
-        "Something that is \"bog-standard\" is completely ordinary with no frills, embellishments, or add-ons."
-
-        "Its origins are somewhat unclear, but a \"bog\" is another word for a toilet in British slang, adding to the connotations that something \"bog-standard\" is unglamorous and unspecial."
+        "Something that is \"bog-standard\" is completely ordinary with no frills, embellishments, or add-ons.\n"
+        "Its origins are somewhat unclear, but a \"bog\" is another word for a toilet in British slang, adding to the "
+        "connotations that something \"bog-standard\" is unglamorous and unspecial.\n\n"
 
         "\"How was the hostel?\" \"Oh, nothing exciting to report. Just your bog-standard dorm, really.\"",
 
     "Boot":
-
-        "The \"boot\" is the compartment at the back of the car known as the \"trunk\" in American English."
+        "The \"boot\" is the compartment at the back of the car known as the \"trunk\" in American English.\n\n"
 
         "\"Shove the shopping in the boot.\"",
 
     "Botch job":
-
-        "A repair job that's been completed in a hurry and will probably fall apart reasonably soon is considered a \"botch job.\""
+        "A repair job that's been completed in a hurry and will probably fall apart reasonably soon is considered a "
+        "\"botch job.\"\n\n"
 
         "\"Sam did a botch job on these shelves -- they're wonky!\"",
 
     "Brolly":
-
-        "British name for an umbrella, as in:"
+        "British name for an umbrella, as in:\n\n"
         "\"Grab your brolly, it's drizzling outside.\"",
 
     "Budge up":
-
-        "An informal way of asking someone to make room where they are sitting for you to sit down, too, would be asking them to \"budge up.\""
-
-        "It's similar to \"scoot over\" or \"move over.\""
+        "An informal way of asking someone to make room where they are sitting for you to sit down, too, "
+        "would be asking them to \"budge up.\"\n"
+        "It's similar to \"scoot over\" or \"move over.\"\n\n"
 
         "\"Hey, there's loads of room on that bench. Budge up and make some room for us, too!\"",
 
     "Builder's tea":
-
-        "The name of a strongly-brewed cup of English breakfast tea with milk -- the way that tea is most commonly drunk in the UK."
-        "It's common courtesy to offer a labourer or builder working on your house a builder's tea while they're working -- especially if they're working out in the cold. This is probably how the term came about."
+        "The name of a strongly-brewed cup of English breakfast tea with milk -- the way that tea is most commonly "
+        "drunk in the UK. \n"
+        "It's common courtesy to offer a labourer or builder working on your house a builder's tea while they're "
+        "working -- especially if they're working out in the cold. This is probably how the term came about. \n\n"
 
         "\"A bacon sandwich and a builder's tea. Now that's a proper breakfast.\"",
 
     "Butchers":
-
-        "\"Butcher's hook\" is Cockney rhyming slang for \"look.\" Therefore, if you're \"having a butchers,\" you're having a look at something."
+        "\"Butcher's hook\" is Cockney rhyming slang for \"look.\" Therefore, if you're \"having a butchers,"
+        "\" you're having a look at something. \n\n"
 
         "\"Would you take a butchers at this broken bike for me?\"",
 
     "Cack-handed":
-
-        "A task performed in an awkward or uncomfortable fashion, usually clumsily, would be described as \"cack-handed.\""
-        "\"Cack\" is old-fashioned slang for faeces."
+        "A task performed in an awkward or uncomfortable fashion, usually clumsily, would be described as "
+        "\"cack-handed.\"\n"
+        "\"Cack\" is old-fashioned slang for faeces.\n\n"
 
         "\"He handles a screwdriver very cack-handedly.\"",
 
     "Cheeky":
-
-        "An act which could be deemed as impolite or shameless, but for some reason comes across as funny or endearing to others, would be described as \"cheeky.\""
+        "An act which could be deemed as impolite or shameless, but for some reason comes across as funny or "
+        "endearing to others, would be described as \"cheeky.\" \n\n"
         "\"Joe's children are so cheeky -- they tied my shoelaces together last week!\"",
 
     "Chinwag":
-
-        "A \"good old chinwag\" is a good chat, catch up, or gossip with someone."
-
-        "The action of chatting away -- with the jaw bobbing up and down -- resembles a chin \"wagging\" like a dog's tail."
+        "A \"good old chinwag\" is a good chat, catch up, or gossip with someone.\n"
+        "The action of chatting away -- with the jaw bobbing up and down -- resembles a chin \"wagging\" like a dog's "
+        "tail.\n\n"
 
         "\"Those two are having a proper chinwag -- I haven't been able to get a word in edgeways for half an hour!\"",
 
     "Chockablock":
-
-        "Something full to the brim, or rammed, could be described as \"chockalock.\""
-
-        "This is sometimes shortened to \"chocka.\""
+        "Something full to the brim, or rammed, could be described as \"chockalock.\"\n"
+        "This is sometimes shortened to \"chocka.\"\n\n"
 
         "\"We should've taken the other route. This road is chocka!\"",
 
     "Chuffed":
-
-        "Overjoyed; full of pride."
+        "Overjoyed; full of pride.\n\n"
 
         "\"I heard you got the promotion. Congratulations! You must be chuffed.\"",
 
     "Clanger":
-
-        "An obvious and indiscreet mistake or blunder."
-
+        "An obvious and indiscreet mistake or blunder.\n"
         "Unrelatedly, \"Clangers\" was also a children's TV show from the 1970s about pink mouse-like creatures that "
-        "lived on the moon. "
+        "lived on the moon. \n\n"
 
         "\"You dropped a clanger there.\"",
 
     "Codswallop":
-
-        "Something untrue -- often made up for dramatic effect."
-
+        "Something untrue -- often made up for dramatic effect.\n"
         "Although no one is completely sure of the word's origins, it could derive from the words \"cod\" and "
         "\"wallop,\" which historically meant \"imitation\" and \"beer\" respectively -- implying that \"codswallop\" "
-        "is the kind of rubbish you make up when drunk. "
+        "is the kind of rubbish you make up when drunk.\n\n"
 
         "\"Oh, what a load of codswallop!\"",
 
     "Cost a bomb":
+        "Expensive.\n\n"
 
-        "Expensive."
-
-        "\"Your watch is gorgeous.\""
-
+        "\"Your watch is gorgeous.\"\n"
         "\"I should hope so, it cost a bomb.\"",
 
     "Cream crackered":
-
-        "Cockney rhyming slang for \"knackered,\" if you're \"cream crackered\" then you're incredibly tired."
-
-        "A \"knacker\" was the person that slaughtered worn-out horses in the 19th and 20th centuries for their meat, hoofs, and hide. So, if you're \"ready for the knacker's yard,\" you're exhausted beyond relief."
+        "Cockney rhyming slang for \"knackered,\" if you're \"cream crackered\" then you're incredibly tired.\n"
+        "A \"knacker\" was the person that slaughtered worn-out horses in the 19th and 20th centuries for their meat, "
+        "hoofs, and hide. So, if you're \"ready for the knacker's yard,\" you're exhausted beyond relief.\n\n"
 
         "\"This week's done me in already, and it's only Tuesday. I'm cream crackered.\"",
 
     "Curtain twitcher":
-
-        "A nosey neighbour, often caught peering out on their street's activities from a curtained window, might be referred to as a \"curtain twitcher.\""
-
-        "\"He's obsessed with anything that happens on this street. He's a bloody curtain twitcher, but he still won't sign for our packages.\"",
+        "A nosey neighbour, often caught peering out on their street's activities from a curtained window, "
+        "might be referred to as a \"curtain twitcher.\"\n\n"
+        "\"He's obsessed with anything that happens on this street. He's a bloody curtain twitcher, but he still "
+        "won't sign for our packages.\"",
 
     "Dench":
+        "An adjective used to advocate something that is impressive or agreeable, dench is the equivalent of "
+        "\"solid\" or \"cool\" when used in response to someone else. \n"
+        "Its reported creator, British rapper Lethal Bizzle, elusively told the Guardian that the word \"means "
+        "anything you want.\" \n\n"
 
-        "An adjective used to advocate something that is impressive or agreeable, dench is the equivalent of \"solid\" or \"cool\" when used in response to someone else."
-
-        "Its reported creator, British rapper Lethal Bizzle, elusively told the Guardian that the word \"means anything you want.\""
-
-        "\"I'm going to make us spaghetti carbonara for dinner.\""
-
+        "\"I'm going to make us spaghetti carbonara for dinner.\"\n"
         "\"Dench.\"",
 
     "Dim":
@@ -222,7 +216,9 @@ dictionary = {
 
         "A cigarette."
 
-        "A \"fag end\" is also the ratty bits towards the ends of a reel of fabric, which are the worst and the cheapest bits of the reel. Historically, \"fags\" were the cheaper cigarettes made of lower grade tobacco, however, the slang has spread to encompass all cigarettes."
+        "A \"fag end\" is also the ratty bits towards the ends of a reel of fabric, which are the worst and the "
+        "cheapest bits of the reel. Historically, \"fags\" were the cheaper cigarettes made of lower grade tobacco, "
+        "however, the slang has spread to encompass all cigarettes. "
 
         "\"Could I pinch a fag, please?\"",
 
@@ -236,17 +232,23 @@ dictionary = {
 
         "To \"flog\" means to sell something -- usually quickly and cheaply."
 
-        "\"Flogging\" also refers to whipping a racehorse in order to make it move faster, so there is some speculation into whether you flog goods in order to make them shift faster, too. However, there is no proof for this theory."
+        "\"Flogging\" also refers to whipping a racehorse in order to make it move faster, so there is some "
+        "speculation into whether you flog goods in order to make them shift faster, too. However, there is no proof "
+        "for this theory. "
 
         "\"I'm trying to flog my old sofa. Do you know anyone that might be interested?\"",
 
     "Full Monty":
 
-        "After \"The Full Monty\" film was released in 1997, there was some international confusion over the phrase in which it was taken as a euphemism for stripping. However, \"the full Monty\" actually refers to pursuing something to the absolute limits."
+        "After \"The Full Monty\" film was released in 1997, there was some international confusion over the phrase "
+        "in which it was taken as a euphemism for stripping. However, \"the full Monty\" actually refers to pursuing "
+        "something to the absolute limits. "
 
-        "\"The full Monty\" historically refers to an old tailor called Sir Montague Burton. Going \"the fully Monty\" meant purchasing a full three-piece suit, a shirt, and all of the trimmings."
+        "\"The full Monty\" historically refers to an old tailor called Sir Montague Burton. Going \"the fully "
+        "Monty\" meant purchasing a full three-piece suit, a shirt, and all of the trimmings. "
 
-        "\"Our Christmas dinner had everything from sprouts to Yorkshire puddings. If you're going to have a roast, have the full Monty!\"",
+        "\"Our Christmas dinner had everything from sprouts to Yorkshire puddings. If you're going to have a roast, "
+        "have the full Monty!\"",
 
     "Full of beans":
 
@@ -260,21 +262,25 @@ dictionary = {
 
         "\"Gaff\" is an informal word for \"home.\""
 
-        "Although the origins of this phrase are largely unknown, a gaff in the 18th-century was a music hall or theatre, and so it's believed to derive from this."
+        "Although the origins of this phrase are largely unknown, a gaff in the 18th-century was a music hall or "
+        "theatre, and so it's believed to derive from this. "
 
         "\"What are you up to this weekend? We've got a party at our gaff, if you fancy it?\"",
 
     "Gallivanting":
 
-        "To \"gallivant\" means to roam, or to set off on an expedition, with the sole intention of having some light-hearted fun."
+        "To \"gallivant\" means to roam, or to set off on an expedition, with the sole intention of having some "
+        "light-hearted fun. "
 
-        "Historically, \"gallant\" described someone brave or valiant, so \"gallivanting\" is a carefree and confident act."
+        "Historically, \"gallant\" described someone brave or valiant, so \"gallivanting\" is a carefree and "
+        "confident act. "
 
         "\"Off they go again, gallivanting.\"",
 
     "Geezer":
 
-        "A \"geezer\" is a man that could be described as \"suave\" or \"dapper,\" and is often suited and booted. Men from east London are also commonly referred to as \"geezers.\""
+        "A \"geezer\" is a man that could be described as \"suave\" or \"dapper,\" and is often suited and booted. "
+        "Men from east London are also commonly referred to as \"geezers.\" "
 
         "Geezer is thought to stem from the 15th century \"guiser,\" which meant well-dressed."
 
@@ -284,7 +290,9 @@ dictionary = {
 
         "\"Give me a call\" or \"ring me.\" The phrase is sometimes shortened to \"give me a tinkle.\""
 
-        "\"Tinkle\" refers to a phone's ring, while \"blower\" is slang or telephone and refers to the device that predated phones on Naval ships. Sailors would blow down a pipe to their recipient, where a whistle at the end of the pipe would sound to spark attention."
+        "\"Tinkle\" refers to a phone's ring, while \"blower\" is slang or telephone and refers to the device that "
+        "predated phones on Naval ships. Sailors would blow down a pipe to their recipient, where a whistle at the "
+        "end of the pipe would sound to spark attention. "
 
         "\"Give me a tinkle on the blower.\"",
 
@@ -292,7 +300,8 @@ dictionary = {
 
         "Astounded; bewildered; shocked."
 
-        "\"Gob\" is slang for mouth, so if you're gobsmacked, you're shocked to the point of clasping your jaw in disbelief."
+        "\"Gob\" is slang for mouth, so if you're gobsmacked, you're shocked to the point of clasping your jaw in "
+        "disbelief. "
 
         "\"I was gobsmacked!\"",
 
@@ -300,13 +309,15 @@ dictionary = {
 
         "A football fan watches his team lose."
 
-        "Not to be confused with literally being disembowelled, someone that says they're \"gutted\" is devastated or extremely upset."
+        "Not to be confused with literally being disembowelled, someone that says they're \"gutted\" is devastated or "
+        "extremely upset. "
 
         "\"I was absolutely gutted.\"",
 
     "Half past":
 
-        "While Americans are more likely to say \"seven thirty\" or \"five fifty,\" Brits will more often than not refer to times in \"minutes past\" the hour. Eg, \"half past seven,\" and \"ten to six.\""
+        "While Americans are more likely to say \"seven thirty\" or \"five fifty,\" Brits will more often than not "
+        "refer to times in \"minutes past\" the hour. Eg, \"half past seven,\" and \"ten to six.\" "
 
         "It's unclear why Brits appear to favour analogue time-telling while Americans go for the digital format."
 
@@ -318,7 +329,8 @@ dictionary = {
 
         "\"I'm Hank Marvin\" means \"I'm hungry\" or \"I'm ravenous.\""
 
-        "Hank Marvin is a British musician from the 1960s and 1970s, and is a pretty obscure reference nowadays. Marvin played guitar in Cliff Richard's backing band in the 1960s."
+        "Hank Marvin is a British musician from the 1960s and 1970s, and is a pretty obscure reference nowadays. "
+        "Marvin played guitar in Cliff Richard's backing band in the 1960s. "
 
         "\"When are we going to eat? I'm Hank Marvin.\"",
 
@@ -391,13 +403,15 @@ dictionary = {
 
         "\"Mint\" might be used when referring to something of the highest calibre."
 
-        "Derived from \"mint condition,\" which refers to something pre-owned that retains its pristine condition, although something that's just \"mint\" doesn't have to be pre-owned."
+        "Derived from \"mint condition,\" which refers to something pre-owned that retains its pristine condition, "
+        "although something that's just \"mint\" doesn't have to be pre-owned. "
 
         "\"Those shoes are mint!\"",
 
     "Mortal":
 
-        "Derived from the Newcastle sociolect, \"mortal\" was made widely known across the country in 2011 by reality TV show \"Geordie Shore.\""
+        "Derived from the Newcastle sociolect, \"mortal\" was made widely known across the country in 2011 by reality "
+        "TV show \"Geordie Shore.\" "
 
         "\"Mortal\" describes someone highly intoxicated or drunk in a sloppy manner."
 
@@ -407,7 +421,8 @@ dictionary = {
 
         "\"The Nick\" can refer to prison, while \"to nick\" also means to steal."
 
-        "The origins of the phrase are largely debated online, however, it's believed that \"to nick\" as in to steal influenced the slang term for prison, as being imprisoned is similar to being \"stolen\" away."
+        "The origins of the phrase are largely debated online, however, it's believed that \"to nick\" as in to steal "
+        "influenced the slang term for prison, as being imprisoned is similar to being \"stolen\" away. "
 
         "\"Did you just nick that?\""
 
@@ -423,13 +438,13 @@ dictionary = {
 
     "On the back foot.":
         "\"It means “in a defensive position” or “in a losing position.”\"\n\n"
-        
+
         "\"Manchester has been on the back foot for the whole match.\"",
 
-        "Or we can use the phrase “put someone on the back foot”:\n"
-        
-        "\"Wow! The Prime Minister called a snap election!* That’s really put the opposition on the back foot.\""
-        
+    "Or we can use the phrase “put someone on the back foot”:\n"
+
+    "\"Wow! The Prime Minister called a snap election!* That’s really put the opposition on the back foot.\""
+
     "On the pull":
 
         "Someone that's \"on the pull\" has gone out, usually on a night out, with the intention of attracting a "
@@ -494,7 +509,7 @@ dictionary = {
 
         "\"Pinch punch, first of the month. No returns of any kind\" is a school playground rhyme often exchanged "
         "between friends on the first day of a new calendar month, accompanied by a pinch and a punch to the "
-        "recipient.n\"
+        "recipient.\n\n"
 
         "If the joker forgets to say \"no returns of any kind,\" the recipient can say \"a slap and a kick for being "
         "so quick,\" accompanied by a slap and a kick.\n"
@@ -520,9 +535,12 @@ dictionary = {
 
         "To \"pop your clogs\" means to die."
 
-        "This cheery phrase is widely believed to originate from Northern factory workers around the time of the industrial revolution. When they were working on the factory floor, employees had to wear hard clogs to protect their feet."
+        "This cheery phrase is widely believed to originate from Northern factory workers around the time of the "
+        "industrial revolution. When they were working on the factory floor, employees had to wear hard clogs to "
+        "protect their feet. "
 
-        "\"Pop\" has evolved from \"cock,\" and when someone \"cocked\" their clogs, the toes of their clogs pointed up in the air as they lay down dead."
+        "\"Pop\" has evolved from \"cock,\" and when someone \"cocked\" their clogs, the toes of their clogs pointed "
+        "up in the air as they lay down dead. "
 
         "\"Did you hear what happened to John's old man? He popped his clogs, didn't he...\"",
 
@@ -530,7 +548,8 @@ dictionary = {
 
         "Something that is nonsense, rubbish, or simply untrue might be described as \"poppycock.\""
 
-        "This quintessentially British idiom derives from the Dutch \"pap\" and \"kak,\" which translate as \"soft\" and \"dung.\""
+        "This quintessentially British idiom derives from the Dutch \"pap\" and \"kak,\" which translate as \"soft\" "
+        "and \"dung.\" "
 
         "\"What a load of poppycock!\"",
 
@@ -544,7 +563,8 @@ dictionary = {
 
     "Round":
 
-        "You might buy a \"round\" of drinks for your friends at the pub, in the understanding that they will each buy you a drink as part of their \"rounds\" later on."
+        "You might buy a \"round\" of drinks for your friends at the pub, in the understanding that they will each "
+        "buy you a drink as part of their \"rounds\" later on. "
 
         "\"Whose round is it? Is it Steve's?\""
 
@@ -560,7 +580,9 @@ dictionary = {
 
         "Someone short-tempered or irritated might be described as \"shirty.\""
 
-        "The meaning of this slang has been debated at length. The word \"shirt\" is derived from the Norse for \"short,\" hence short-tempered. However, other people believe that \"shirty\" has connotations of being dishevelled."
+        "The meaning of this slang has been debated at length. The word \"shirt\" is derived from the Norse for "
+        "\"short,\" hence short-tempered. However, other people believe that \"shirty\" has connotations of being "
+        "dishevelled. "
 
         "\"Don't get shirty with me, mister.\"",
 
@@ -588,23 +610,29 @@ dictionary = {
 
         "Someone that comes across as scheming or untrustworthy might be described as \"smarmy.\""
 
-        "Although the adjective's origins remain largely unknown, early documented uses seem to use the word as synonymous with \"smear,\" further suggesting that someone who is \"smarmy\" is also \"slick\" or \"slippery.\""
+        "Although the adjective's origins remain largely unknown, early documented uses seem to use the word as "
+        "synonymous with \"smear,\" further suggesting that someone who is \"smarmy\" is also \"slick\" or "
+        "\"slippery.\" "
 
         "\"Don't trust him -- he's a smarmy geezer.\"",
 
     "Sod's law":
 
-        "A British axiom that boils down to the idea that: \"If anything can go wrong, then it definitely will go wrong.\""
+        "A British axiom that boils down to the idea that: \"If anything can go wrong, then it definitely will go "
+        "wrong.\" "
 
-        "\"Sod's law\" is often used to explain bad luck or freakish acts of misfortune. This is more commonly known in the US as \"Murphy's law.\""
+        "\"Sod's law\" is often used to explain bad luck or freakish acts of misfortune. This is more commonly known "
+        "in the US as \"Murphy's law.\" "
 
         "\"Of course my toast had to land on the floor butter-side-down. It's Sod's law.\"",
 
     "Spanner in the works":
 
-        "An event that disrupts the natural, pre-planned order of events could be described as a \"spanner in the works.\""
+        "An event that disrupts the natural, pre-planned order of events could be described as a \"spanner in the "
+        "works.\" "
 
-        "The phrase describes the mayhem caused when something is recklessly thrown into the intricate gears and workings of a machine."
+        "The phrase describes the mayhem caused when something is recklessly thrown into the intricate gears and "
+        "workings of a machine. "
 
         "\"By getting pregnant, Mary threw a spanner in the works.\"",
 
@@ -612,9 +640,12 @@ dictionary = {
 
         "To \"spend a penny\" is a polite euphemism for going to the toilet."
 
-        "The phrase goes back to Victorian public toilets, which required users to insert a single penny in order to operate the lock."
+        "The phrase goes back to Victorian public toilets, which required users to insert a single penny in order to "
+        "operate the lock. "
 
-        "Although it sounds crude, the phrase is actually considered a polite way of announcing that you are going to visit the bathroom. Historically, only women would announce they were going to \"spend a penny,\" as only women's public toilets required a penny to lock. Men's urinals were free of charge."
+        "Although it sounds crude, the phrase is actually considered a polite way of announcing that you are going to "
+        "visit the bathroom. Historically, only women would announce they were going to \"spend a penny,\" as only "
+        "women's public toilets required a penny to lock. Men's urinals were free of charge. "
 
         "\"I'm going to spend a penny.\"",
 
@@ -622,33 +653,39 @@ dictionary = {
 
         "To \"splash out\" means spending significant amounts of money on a particular item or event."
 
-        "If you're \"splashing out,\" it's implied that you're spending money on a treat to mark a special occasion or celebration."
+        "If you're \"splashing out,\" it's implied that you're spending money on a treat to mark a special occasion "
+        "or celebration. "
 
         "\"Wow -- you've really splashed out on this party!\"",
 
     "Swot":
 
-        "Similar to \"nerd\" or \"geek\" but less derogatory -- someone that takes academic study very seriously might be described as a \"swot.\""
+        "Similar to \"nerd\" or \"geek\" but less derogatory -- someone that takes academic study very seriously "
+        "might be described as a \"swot.\" \n"
 
-        "\"Swot\" can also be used as a verb."
+        "\"Swot\" can also be used as a verb.\n\n"
 
-        "\"I haven't seen Tom since he started revising for his exams. He's turned into such a swot!\""
+        "\"I haven't seen Tom since he started revising for his exams. He's turned into such a swot!\"\n"
 
         "\"Yeah, he's been swotting like mad for his Spanish exam.\"",
 
     "Take the biscuit":
 
-        "If someone has done something highly irritating or surprising in an exasperating fashion, you might say that they've \"taken the biscuit.\""
+        "If someone has done something highly irritating or surprising in an exasperating fashion, you might say that "
+        "they've \"taken the biscuit.\" \n"
 
-        "\"Taking the biscuit\" is the equivalent of taking the nonexistent medal for foolishness or incredulity."
+        "\"Taking the biscuit\" is the equivalent of taking the nonexistent medal for foolishness or incredulity.\n\n"
 
-        "\"I could just about deal with the dog barking at 5:30a.m., but the lawnmower at 3 a.m. really takes the biscuit.\"",
+        "\"I could just about deal with the dog barking at 5:30a.m., but the lawnmower at 3 a.m. really takes the "
+        "biscuit.\"",
 
     "Take the Mickey":
 
-        "To \"take the Mickey\" means to take liberties at the expense of others -- and can be used in both a lighthearted and an irritated fashion."
+        "To \"take the Mickey\" means to take liberties at the expense of others -- and can be used in both a "
+        "lighthearted and an irritated fashion.\n "
 
-        "\"Take the Mickey\" is an abbreviation of \"taking the Mickey Bliss,\" which is Cockney rhyming slang for \"take the p***.\""
+        "\"Take the Mickey\" is an abbreviation of \"taking the Mickey Bliss,\" which is Cockney rhyming slang for "
+        "\"take the p***.\" \n\n"
 
         "\"Hey! Don't take the Mickey.\"",
 
@@ -656,7 +693,8 @@ dictionary = {
 
         "Something that is \"tickety-boo\" is satisfactory and in good order."
 
-        "This classic British idiom may seem stereotypically twee, however, some sources believe that \"tickety-boo\" in fact derives from the Hindu phrase \"ṭhīk hai, bābū,\" meaning \"it's alright, sir.\""
+        "This classic British idiom may seem stereotypically twee, however, some sources believe that \"tickety-boo\" "
+        "in fact derives from the Hindu phrase \"ṭhīk hai, bābū,\" meaning \"it's alright, sir.\" \n\n"
 
         "\"Everything's tickety-boo.\"",
 
