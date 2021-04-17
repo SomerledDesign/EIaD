@@ -2,15 +2,16 @@ import smtplib
 from email.message import EmailMessage
 
 
-def email_alert(whofrom, password, subject, body, to):
+def email_alert(whofrom, password, name='Sum Yung Nguy', subject, body, to):
+    user = whofrom
+    msg['from'] = name
+    password = password
+
     msg = EmailMessage()
     msg.set_content(body)
     msg['subject'] = subject
     msg['to'] = to
 
-    user = whofrom
-    msg['from'] = 'Some Young Guy'
-    password = password
 
     server = smtplib.SMTP("smtp.gmail.com", 587)
 
