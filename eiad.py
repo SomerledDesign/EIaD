@@ -11,6 +11,16 @@ parser = argparse.ArgumentParser(
     description="Send a random British idiom and definition to a mailing list",
     prog="English Idiom a Day®",
 )
+
+parser.add_argument(
+    "-n",
+    "--name",
+    type=str,
+    metavar="",
+    required=False,
+    help="name in email header.",
+)
+
 parser.add_argument(
     "-u",
     "--user",
@@ -66,4 +76,4 @@ else:
 subject, body = random.choice(list(d.items()))
 
 for email_address in email_list:
-    email_alert(args.user, args.password, subject, body, email_address)
+    email_alert(args.user, args.password, args.name, subject, body, email_address)
