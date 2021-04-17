@@ -37,6 +37,13 @@ dictionary = {
         "\" or a \"three-day bender.\"\n\n"
 
         "\"I bumped into him towards the end of his four-day bender. He was a wreck.\"",
+    
+    "Big girl's blouse":
+        "A derogatory phrase used in jest to insult a man who other men believe is behaving in a weak or effeminate "
+        "manner. Primarily heard in UK, Australia.\n\n"
+
+        "\"You're nothing but a big girl's blouse walking around with your hair in a bun like that,\" "
+        "yelled the old man to the young hipster.",
 
     "Blinder":
         "To 'pull a blinder' involves achieving something difficult faultlessly and skilfully.\n"
@@ -223,135 +230,106 @@ dictionary = {
         "\"Could I pinch a fag, please?\"",
 
     "Fit":
-
-        "Used to describe someone physically attractive, usually referring to their physique."
+        "Used to describe someone physically attractive, usually referring to their physique.\n\n"
 
         "\"He's fit.\"",
 
     "Flog":
-
-        "To \"flog\" means to sell something -- usually quickly and cheaply."
-
+        "To \"flog\" means to sell something -- usually quickly and cheaply.\n"
         "\"Flogging\" also refers to whipping a racehorse in order to make it move faster, so there is some "
         "speculation into whether you flog goods in order to make them shift faster, too. However, there is no proof "
-        "for this theory. "
+        "for this theory. \n\n"
 
         "\"I'm trying to flog my old sofa. Do you know anyone that might be interested?\"",
 
     "Full Monty":
-
         "After \"The Full Monty\" film was released in 1997, there was some international confusion over the phrase "
         "in which it was taken as a euphemism for stripping. However, \"the full Monty\" actually refers to pursuing "
-        "something to the absolute limits. "
-
+        "something to the absolute limits. \n"
         "\"The full Monty\" historically refers to an old tailor called Sir Montague Burton. Going \"the fully "
-        "Monty\" meant purchasing a full three-piece suit, a shirt, and all of the trimmings. "
+        "Monty\" meant purchasing a full three-piece suit, a shirt, and all of the trimmings. \n\n"
 
         "\"Our Christmas dinner had everything from sprouts to Yorkshire puddings. If you're going to have a roast, "
         "have the full Monty!\"",
 
     "Full of beans":
-
-        "Someone that's energetic, lively, or enthusiastic might be described as \"full of beans.\""
-
-        "This phrase could be a reference to coffee beans, although these claims have been disputed."
+        "Someone that's energetic, lively, or enthusiastic might be described as \"full of beans.\"\n"
+        "This phrase could be a reference to coffee beans, although these claims have been disputed.\n\n"
 
         "\"Goodness, you're full of beans this morning!\"",
 
     "Gaff":
-
-        "\"Gaff\" is an informal word for \"home.\""
-
+        "\"Gaff\" is an informal word for \"home.\"\n"
         "Although the origins of this phrase are largely unknown, a gaff in the 18th-century was a music hall or "
-        "theatre, and so it's believed to derive from this. "
+        "theatre, and so it's believed to derive from this. \n\n"
 
         "\"What are you up to this weekend? We've got a party at our gaff, if you fancy it?\"",
 
     "Gallivanting":
-
         "To \"gallivant\" means to roam, or to set off on an expedition, with the sole intention of having some "
-        "light-hearted fun. "
-
+        "light-hearted fun. \n"
         "Historically, \"gallant\" described someone brave or valiant, so \"gallivanting\" is a carefree and "
-        "confident act. "
+        "confident act. \n\n"
 
         "\"Off they go again, gallivanting.\"",
 
     "Geezer":
-
-        "A \"geezer\" is a man that could be described as \"suave\" or \"dapper,\" and is often suited and booted. "
-        "Men from east London are also commonly referred to as \"geezers.\" "
-
-        "Geezer is thought to stem from the 15th century \"guiser,\" which meant well-dressed."
+        "A \"geezer\" is a man that could be described as \"suave\" or \"dapper,\" and is often suited and booted. \n"
+        "Men from east London are also commonly referred to as \"geezers.\" \n"
+        "Geezer is thought to stem from the 15th century \"guiser,\" which meant well-dressed.\n\n"
 
         "\"That guy's got such swagger -- he's a proper geezer.\"",
 
     "Give me a tinkle on the blower":
-
-        "\"Give me a call\" or \"ring me.\" The phrase is sometimes shortened to \"give me a tinkle.\""
-
+        "\"Give me a call\" or \"ring me.\" The phrase is sometimes shortened to \"give me a tinkle.\"\n"
         "\"Tinkle\" refers to a phone's ring, while \"blower\" is slang or telephone and refers to the device that "
         "predated phones on Naval ships. Sailors would blow down a pipe to their recipient, where a whistle at the "
-        "end of the pipe would sound to spark attention. "
+        "end of the pipe would sound to spark attention. \n\n"
 
         "\"Give me a tinkle on the blower.\"",
 
     "Gobsmacked":
-
-        "Astounded; bewildered; shocked."
-
+        "Astounded; bewildered; shocked.\n"
         "\"Gob\" is slang for mouth, so if you're gobsmacked, you're shocked to the point of clasping your jaw in "
-        "disbelief. "
+        "disbelief. \n\n"
 
         "\"I was gobsmacked!\"",
 
     "Gutted":
-
-        "A football fan watches his team lose."
-
+        "A football fan watches his team lose.\n"
         "Not to be confused with literally being disembowelled, someone that says they're \"gutted\" is devastated or "
-        "extremely upset. "
+        "extremely upset. \n\n"
 
         "\"I was absolutely gutted.\"",
 
     "Half past":
-
         "While Americans are more likely to say \"seven thirty\" or \"five fifty,\" Brits will more often than not "
-        "refer to times in \"minutes past\" the hour. Eg, \"half past seven,\" and \"ten to six.\" "
-
-        "It's unclear why Brits appear to favour analogue time-telling while Americans go for the digital format."
+        "refer to times in \"minutes past\" the hour. Eg, \"half past seven,\" and \"ten to six.\" \n"
+        "It's unclear why Brits appear to favour analogue time-telling while Americans go for the digital format.\n\n"
 
         "\"It's twenty past eleven.\"",
 
     "Hank Marvin":
-
-        "\"Hank Marvin\" is Cockney rhyming slang for \"starving.\""
-
-        "\"I'm Hank Marvin\" means \"I'm hungry\" or \"I'm ravenous.\""
-
+        "\"Hank Marvin\" is Cockney rhyming slang for \"starving.\"\n"
+        "\"I'm Hank Marvin\" means \"I'm hungry\" or \"I'm ravenous.\"\n"
         "Hank Marvin is a British musician from the 1960s and 1970s, and is a pretty obscure reference nowadays. "
-        "Marvin played guitar in Cliff Richard's backing band in the 1960s. "
+        "Marvin played guitar in Cliff Richard's backing band in the 1960s. \n\n"
 
         "\"When are we going to eat? I'm Hank Marvin.\"",
 
     "Innit":
-
-        "\"Innit\" is an abbreviation of \"isn't it\" most commonly used amongst teenagers and young people."
-
-        "This phrase is used to confirm or agree with something that another person has just said."
-
-        "\"It's really cold today.\""
+        "\"Innit\" is an abbreviation of \"isn't it\" most commonly used amongst teenagers and young people.\n"
+        "This phrase is used to confirm or agree with something that another person has just said.\n"
+        "\"It's really cold today.\"\n\n"
 
         "\"Innit.\"",
 
     "Leg it":
-
-        "Make a run for it; run away; scarper."
+        "Make a run for it; run away; scarper.\n\n"
 
         "\"That's when all of the lights came on, and so we legged it.\"",
 
     "Long":
-
         "Something that takes a lot of effort and probably isn't going to be worth all of the effort, either, "
         "could be described as \"long.\" This could be due to the lengths that the person will have to go to in order "
         "to complete the task. \n\n"
@@ -361,13 +339,10 @@ dictionary = {
         "\"Cleaning the kitchen is long.\"",
 
     "Lurgy":
-
-        "If someone's \"caught the lurgy,\" they're suffering from cold or flu-like symptoms."
-
+        "If someone's \"caught the lurgy,\" they're suffering from cold or flu-like symptoms.\n"
         "\"The dreaded lurgy\" originates from 1950s British TV show \"The Goon Show,\" in which one character has to "
-        "deal with a national epidemic of an unidentified illness. "
-
-        "\"Lurgy\" is probably based on a mispronunciation of the word \"allergy.\""
+        "deal with a national epidemic of an unidentified illness. \n"
+        "\"Lurgy\" is probably based on a mispronunciation of the word \"allergy.\"\n"
 
         "She's come down with the dreaded lurgy.",
 
@@ -578,177 +553,137 @@ dictionary = {
 
     "Shirty":
 
-        "Someone short-tempered or irritated might be described as \"shirty.\""
-
+        "Someone short-tempered or irritated might be described as \"shirty.\"\n"
         "The meaning of this slang has been debated at length. The word \"shirt\" is derived from the Norse for "
         "\"short,\" hence short-tempered. However, other people believe that \"shirty\" has connotations of being "
-        "dishevelled. "
+        "dishevelled. \n\n"
 
         "\"Don't get shirty with me, mister.\"",
 
     "Skew-whiff":
-
-        "Something that is \"skew-whiff\" is askew."
-
+        "Something that is \"skew-whiff\" is askew.\n\n"
         "\"Is it just me or is that painting a bit skew-whiff?\"",
 
     "Skive":
-
-        "\"Skiving\" is the act of avoiding work or school, often by pretending to be ill."
-
-        "\"Skive\" is derived from the French \"esquiver,\" meaning \"to slink away.\""
+        "\"Skiving\" is the act of avoiding work or school, often by pretending to be ill.\n"
+        "\"Skive\" is derived from the French \"esquiver,\" meaning \"to slink away.\"\n\n"
 
         "\"He skived off school so we could all go to Thorpe Park on a weekday.\"",
 
     "Slumped":
-
-        "Lacking in energy; usually after a long period of exertion."
+        "Lacking in energy; usually after a long period of exertion.\n\n"
 
         "\"Do we have to go to the dinner party tonight? I'm slumped.\"",
 
     "Smarmy":
-
-        "Someone that comes across as scheming or untrustworthy might be described as \"smarmy.\""
-
+        "Someone that comes across as scheming or untrustworthy might be described as \"smarmy.\"\n"
         "Although the adjective's origins remain largely unknown, early documented uses seem to use the word as "
         "synonymous with \"smear,\" further suggesting that someone who is \"smarmy\" is also \"slick\" or "
-        "\"slippery.\" "
+        "\"slippery.\" \n\n"
 
         "\"Don't trust him -- he's a smarmy geezer.\"",
 
     "Sod's law":
-
         "A British axiom that boils down to the idea that: \"If anything can go wrong, then it definitely will go "
-        "wrong.\" "
-
+        "wrong.\" \n"
         "\"Sod's law\" is often used to explain bad luck or freakish acts of misfortune. This is more commonly known "
-        "in the US as \"Murphy's law.\" "
+        "in the US as \"Murphy's law.\" \n\n"
 
         "\"Of course my toast had to land on the floor butter-side-down. It's Sod's law.\"",
 
     "Spanner in the works":
-
         "An event that disrupts the natural, pre-planned order of events could be described as a \"spanner in the "
-        "works.\" "
-
+        "works.\" \n"
         "The phrase describes the mayhem caused when something is recklessly thrown into the intricate gears and "
-        "workings of a machine. "
+        "workings of a machine. \n\n"
 
         "\"By getting pregnant, Mary threw a spanner in the works.\"",
 
     "Spend a penny":
-
-        "To \"spend a penny\" is a polite euphemism for going to the toilet."
-
+        "To \"spend a penny\" is a polite euphemism for going to the toilet.\n"
         "The phrase goes back to Victorian public toilets, which required users to insert a single penny in order to "
-        "operate the lock. "
-
+        "operate the lock. \n"
         "Although it sounds crude, the phrase is actually considered a polite way of announcing that you are going to "
         "visit the bathroom. Historically, only women would announce they were going to \"spend a penny,\" as only "
-        "women's public toilets required a penny to lock. Men's urinals were free of charge. "
+        "women's public toilets required a penny to unlock. Men's urinals were free of charge. \n\n"
 
         "\"I'm going to spend a penny.\"",
 
     "Splash out":
-
-        "To \"splash out\" means spending significant amounts of money on a particular item or event."
-
+        "To \"splash out\" means spending significant amounts of money on a particular item or event.\n"
         "If you're \"splashing out,\" it's implied that you're spending money on a treat to mark a special occasion "
-        "or celebration. "
+        "or celebration. \n\n"
 
         "\"Wow -- you've really splashed out on this party!\"",
 
     "Swot":
-
         "Similar to \"nerd\" or \"geek\" but less derogatory -- someone that takes academic study very seriously "
         "might be described as a \"swot.\" \n"
-
         "\"Swot\" can also be used as a verb.\n\n"
 
         "\"I haven't seen Tom since he started revising for his exams. He's turned into such a swot!\"\n"
-
         "\"Yeah, he's been swotting like mad for his Spanish exam.\"",
 
     "Take the biscuit":
-
         "If someone has done something highly irritating or surprising in an exasperating fashion, you might say that "
         "they've \"taken the biscuit.\" \n"
-
         "\"Taking the biscuit\" is the equivalent of taking the nonexistent medal for foolishness or incredulity.\n\n"
 
         "\"I could just about deal with the dog barking at 5:30a.m., but the lawnmower at 3 a.m. really takes the "
         "biscuit.\"",
 
     "Take the Mickey":
-
         "To \"take the Mickey\" means to take liberties at the expense of others -- and can be used in both a "
         "lighthearted and an irritated fashion.\n "
-
         "\"Take the Mickey\" is an abbreviation of \"taking the Mickey Bliss,\" which is Cockney rhyming slang for "
         "\"take the p***.\" \n\n"
 
         "\"Hey! Don't take the Mickey.\"",
 
     "Tickety-boo":
-
-        "Something that is \"tickety-boo\" is satisfactory and in good order."
-
+        "Something that is \"tickety-boo\" is satisfactory and in good order.\n"
         "This classic British idiom may seem stereotypically twee, however, some sources believe that \"tickety-boo\" "
         "in fact derives from the Hindu phrase \"ṭhīk hai, bābū,\" meaning \"it's alright, sir.\" \n\n"
 
         "\"Everything's tickety-boo.\"",
 
     "Waffle":
+        "When someone makes a great speech while skirting around a subject or saying little of any value, you might say "
+        "that they're talking \"waffle,\" or that they're \"waffling.\"\n"
+        "In the 17th century, to \"waff\" went to yelp, and quickly evolved to mean to talk foolishly or indecisively.\n\n"
 
-        "When someone makes a great speech while skirting around a subject or saying little of any value, you might say that they're talking \"waffle,\" or that they're \"waffling.\""
-
-        "In the 17th century, to \"waff\" went to yelp, and quickly evolved to mean to talk foolishly or indecisively."
-
-        "\"I wish he'd stop waffling on.\""
-
+        "\"I wish he'd stop waffling on.\"\n"
         "\"What a load of waffle!\"",
 
     "Wally":
-
-        "Someone silly or incompetent might be described as a wally."
-
-        "Although its origins are largely debated, the term's meaning has evolved over the last 50 years alone."
-
-        "In the 1960s, someone that was unfashionable might be nicknamed a \"wally,\" according to dictionary.com."
+        "Someone silly or incompetent might be described as a wally.\n"
+        "Although its origins are largely debated, the term's meaning has evolved over the last 50 years alone.\n"
+        "In the 1960s, someone that was unfashionable might be nicknamed a \"wally,\" according to dictionary.com.\n\n"
 
         "\"Don't put down a leaking mug on top of the newspaper, you wally!\"",
 
     "Wangle":
-
-        "If you've \"wangled\" something, you've accomplished or attained something through cunning means.\n"
-
+        "If you've \"wangled\" something, you've accomplished or attained something through cunning means.\n\n"
         "\"I wangled some first-class seats by being nice to the cabin crew!\"",
 
     "Whinge":
-
-        "To \"whinge\" means to moan, groan, and complain in an irritating or whiney fashion.\n"
-
+        "To \"whinge\" means to moan, groan, and complain in an irritating or whiney fashion.\n\n"
         "\"Quit whinging.\"",
 
     "Wind your neck in":
-
         "If you want to tell someone to not concern themselves with issues that don't directly affect them, "
         "you might tell them to \"wind their neck in.\"\n"
-
         "This classic phrase is another way of telling someone that their opinion is not appreciated in the given "
-        "scenario.\n"
+        "scenario.\n\n"
 
         "\"Wind your neck in and stop being so nosy!\"",
 
     "Wind-up merchant":
-
         "Someone that makes comments just to spark controversy or argument might be labelled a \"wind-up merchant.\"\n"
-
         "The \"wind-up merchant\" will often claim to be making their comments as a light-hearted jest when the "
         "recipients start becoming irritated. \n"
-
         "If you're \"winding someone up,\" you're making them tense or irritated in the same way you wind up a "
-        "Jack-in-the-box before it pops. \n"
+        "Jack-in-the-box before it pops. \n\n"
 
         "\"Stop being such a wind-up merchant and be serious for one second!\"",
 
