@@ -420,77 +420,99 @@ dictionary = {
         "\"How's the report going, Steve?\""
 
         "\"Don't you worry, Alan, I'm on it like a car bonnet.\"",
+
     "On the back foot.":
-    "\"It means “in a defensive position” or “in a losing position.”\"\n\n",
+        "\"It means “in a defensive position” or “in a losing position.”\"\n\n"
+        
+        "\"Manchester has been on the back foot for the whole match.\"",
 
-
+        "Or we can use the phrase “put someone on the back foot”:\n"
+        
+        "\"Wow! The Prime Minister called a snap election!* That’s really put the opposition on the back foot.\""
+        
     "On the pull":
 
-        "Someone that's \"on the pull\" has gone out, usually on a night out, with the intention of attracting a sexual partner."
+        "Someone that's \"on the pull\" has gone out, usually on a night out, with the intention of attracting a "
+        "sexual partner.\n\n "
 
-        "\"Pull\" can also be used as a verb. If you've \"pulled,\" you've kissed someone."
+        "\"Pull\" can also be used as a verb. If you've \"pulled,\" you've kissed someone.\n"
 
         "\"You look nice. Are you going on the pull?\"",
 
     "Over-egg the pudding":
 
-        "\"Over-egging the pudding\" means embellishing or over-doing something to the extent that it's detrimental to the finished product."
+        "\"Over-egging the pudding\" means embellishing or over-doing something to the extent that it's detrimental "
+        "to the finished product. \n\n"
 
-        "Although this sounds like an analogy about the chemistry of baking, or putting too many eggs in a cake batter, \"egg\" actually comes from the Anglo Saxon \"eggian,\" meaning to \"excite.\" This is still used in English in the phrase \"egging someone on\" to do something."
+        "Although this sounds like an analogy about the chemistry of baking, or putting too many eggs in a cake "
+        "batter, \"egg\" actually comes from the Anglo Saxon \"eggian,\" meaning to \"excite.\" This is still used in "
+        "English in the phrase \"egging someone on\" to do something. \n\n"
 
-        "In \"over-egging the pudding\" analogy, someone is over-exciting, or over-mixing, the batter too much before it bakes -- resulting in a tough or dense cake."
+        "In \"over-egging the pudding\" analogy, someone is over-exciting, or over-mixing, the batter too much before "
+        "it bakes -- resulting in a tough or dense cake. \n"
 
         "\"We get it -- you've injured yourself. Don't over-egg the pudding.\"",
 
     "Pants":
 
-        "Rubbish; trash; garbage."
+        "Rubbish; trash; garbage.\n"
 
         "\"That is pants.\"",
 
     "Par":
 
-        "A \"par\" breaches social and common courtesy, eg, a disrespectful comment could be seen as a \"par.\""
+        "A \"par\" breaches social and common courtesy, eg, a disrespectful comment could be seen as a \"par.\"\n\n"
 
-        "\"Par\" can also be used as a verb, eg, \"You just got parred.\""
+        "\"Par\" can also be used as a verb, eg, \"You just got parred.\"\n"
 
-        "This slang term could be a British abbreviation of the French \"faux pas,\" meaning an embarrassing or tactless remark in a social situation."
+        "This slang term could be a British abbreviation of the French \"faux pas,\" meaning an embarrassing or "
+        "tactless remark in a social situation. \n"
 
         "\"I don't mean this as a par, but did you remember to wash this morning?\"",
 
     "Pear-shaped":
 
-        "A situation which has quickly evolved into an accident waiting to happen might be described as \"gone pear-shaped.\""
+        "A situation which has quickly evolved into an accident waiting to happen might be described as \"gone "
+        "pear-shaped.\" \n\n"
 
-        "The phrase is reportedly old slang from the Royal Air Force and was used to described awry expeditions and flights."
+        "The phrase is reportedly old slang from the Royal Air Force and was used to described awry expeditions and "
+        "flights. \n"
 
         "\"Well, this has all gone a bit pear-shaped.\"",
 
     "Pea-souper":
 
-        "A \"pea-souper\" is a thick fog, often with a yellow or black tinge, caused by air pollution."
+        "A \"pea-souper\" is a thick fog, often with a yellow or black tinge, caused by air pollution.\n\n"
 
-        "The idiom was first used to describe the thick, choking smogs that settled over London, caused by lots of people burning fossil fuels in a close vicinity, as early as 1200. The smogs were compared to pea soup due to their colour and density."
+        "The idiom was first used to describe the thick, choking smogs that settled over London, caused by lots of "
+        "people burning fossil fuels in a close vicinity, as early as 1200. The smogs were compared to pea soup due "
+        "to their colour and density. \n"
 
         "\"Be careful when you're driving -- it's a pea-souper out there.\"",
 
     "Pinch punch first of the month":
 
-        "\"Pinch punch, first of the month. No returns of any kind\" is a school playground rhyme often exchanged between friends on the first day of a new calendar month, accompanied by a pinch and a punch to the recipient."
+        "\"Pinch punch, first of the month. No returns of any kind\" is a school playground rhyme often exchanged "
+        "between friends on the first day of a new calendar month, accompanied by a pinch and a punch to the "
+        "recipient.n\"
 
-        "If the joker forgets to say \"no returns of any kind,\" the recipient can say \"a slap and a kick for being so quick,\" accompanied by a slap and a kick."
+        "If the joker forgets to say \"no returns of any kind,\" the recipient can say \"a slap and a kick for being "
+        "so quick,\" accompanied by a slap and a kick.\n"
 
-        "According to the Metro, the playground ritual originates from the medieval times, when a \"pinch\" of salt was believing to make witches weak, and the \"punch\" resembled banishing the witches entirely. As a result, \"pinch punch, first of the month\" was a way of warding off witches and bad luck for the near future."
+        "According to the Metro, the playground ritual originates from the medieval times, when a \"pinch\" of salt "
+        "was believing to make witches weak, and the \"punch\" resembled banishing the witches entirely. As a result, "
+        "\"pinch punch, first of the month\" was a way of warding off witches and bad luck for the near future.\n\n"
 
-        "Nowadays, it's mostly a way for kids to pull pranks on their friends."
+        "Nowadays, it's mostly a way for kids to pull pranks on their friends.\n\n"
 
-        "\"Pinch punch, first of the month!\""
+        "\"Pinch punch, first of the month!\"\n"
 
         "\"Ha! A slap and a kick for being so quick!\"",
 
     "Pissed":
 
-        "\"Pissed\" usually means \"angry\" in the US. However, in the UK, someone that's \"pissed\" is most probably drunk."
+        "\"Pissed\" usually means \"angry\" in the US. However, in the UK, someone that's \"pissed\" is most probably "
+        "drunk. \n\n"
 
         "\"Oh leave him alone, he's pissed!\"",
 
