@@ -59,7 +59,7 @@ parser.add_argument(
 parser.add_argument("-V", "--version", action="version", version="%(prog)s v0.9")
 
 args = parser.parse_args()
-
+email_list = []
 if args.email:
     email_list=[args.email]
 elif args.file:

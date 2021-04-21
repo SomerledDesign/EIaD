@@ -648,9 +648,10 @@ dictionary = {
         "\"Everything's tickety-boo.\"",
 
     "Waffle":
-        "When someone makes a great speech while skirting around a subject or saying little of any value, you might say "
-        "that they're talking \"waffle,\" or that they're \"waffling.\"\n"
-        "In the 17th century, to \"waff\" went to yelp, and quickly evolved to mean to talk foolishly or indecisively.\n\n"
+        "When someone makes a great speech while skirting around a subject or saying little of any value, you might "
+        "say that they're talking \"waffle,\" or that they're \"waffling.\"\n "
+        "In the 17th century, to \"waff\" went to yelp, and quickly evolved to mean to talk foolishly or "
+        "indecisively.\n\n "
 
         "\"I wish he'd stop waffling on.\"\n"
         "\"What a load of waffle!\"",
