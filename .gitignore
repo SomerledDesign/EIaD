@@ -1,5 +1,7 @@
+/.idea/
 /lib/
 /include/
 /bin/
+/__pycache__/
 email_list.txt
 pyvenv.cfg
